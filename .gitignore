@@ -1,3 +1,4 @@
 node_modules
 convertOpenApi.js
 .env
+openapi-v3.json
